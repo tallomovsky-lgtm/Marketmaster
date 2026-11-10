@@ -1,0 +1,11 @@
+{
+  "name": "marketmaster",
+  "owner": { "name": "tallomovsky-lgtm" },
+  "plugins": [
+    {
+      "name": "day-trader-skill",
+      "source": "./day-trader-skill",
+      "description": "11 Hebrew day-trading skills: scanner, Monte Carlo time machine, congress trades, pre-market, news, levels, risk, earnings, heat map, journal."
+    }
+  ]
+}
