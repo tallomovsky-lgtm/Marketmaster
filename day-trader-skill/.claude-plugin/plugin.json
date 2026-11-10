@@ -1,0 +1,8 @@
+{
+  "name": "day-trader-skill",
+  "version": "1.0.0",
+  "description": "11 Hebrew day-trading skills for Claude: chart scanner, Monte Carlo time machine, congress trades, pre-market brief, news, key levels, position sizing, earnings, heat map and a trade journal.",
+  "author": { "name": "tallomovsky-lgtm" },
+  "homepage": "https://github.com/tallomovsky-lgtm/Marketmaster/tree/main/day-trader-skill",
+  "keywords": ["trading", "stocks", "day-trading", "hebrew", "monte-carlo", "scanner"]
+}
